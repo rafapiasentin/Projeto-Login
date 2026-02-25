@@ -8,7 +8,7 @@ Projeto criado na diciplina de programação front-end, na Unicesumar, campus de
 
 - HTML5
 - CSS3
-- Boostrap
+- Bootstrap
 - Git
 
 
