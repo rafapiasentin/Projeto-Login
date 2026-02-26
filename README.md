@@ -12,7 +12,7 @@ Projeto criado na diciplina de programação front-end, na Unicesumar, campus de
  
  - Tela de login e FAQ funcionais 
 
-### (![Imagem tela de login ](<Captura de tela 2026-02-25 212051.png>))
+### (![Imagem tela de login ](<img1.png>))
 
 ### Ferramentas Utilizadas
 
@@ -21,7 +21,7 @@ Projeto criado na diciplina de programação front-end, na Unicesumar, campus de
 - Bootstrap
 - Git
 
-# 📁 Acesso ao projeto
+## 📁 Acesso ao projeto
 (https://github.com/rafapiasentin/Projeto-Login).
 
 ### Autor
