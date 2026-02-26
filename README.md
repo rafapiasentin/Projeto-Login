@@ -12,7 +12,7 @@ Projeto criado na diciplina de programação front-end, na Unicesumar, campus de
  
  - Tela de login e FAQ funcionais 
 
-### (![Imagem tela de login ]<img1.png>)
+### ![Imagem tela de login ](<img1.png>)
 
 ### Ferramentas Utilizadas
 
