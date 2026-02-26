@@ -26,3 +26,5 @@ Projeto criado na diciplina de programação front-end, na Unicesumar, campus de
 
 ### Autor
 [Rafael Piasentin](https://github.com/rafapiasentin/Projeto-Login).
+### linkedin
+(https://www.linkedin.com/in/rafael-piasentin-b22149256/)
