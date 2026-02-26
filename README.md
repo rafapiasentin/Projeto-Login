@@ -16,12 +16,8 @@ Projeto criado na diciplina de programação front-end, na Unicesumar, campus de
 
 ## É necessario instalar o git
 
-### GitHub para Windows
-(hps://windows.github.com)
-
-### GitHub para Mac
-(hps://mac.github.com)
-
+### Link do download do GIT para todas as plataformas
+    https://git-scm.com
 
 ### Git
 
